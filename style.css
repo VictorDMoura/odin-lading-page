@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1f2937;
+    font-size: 18px;
+    color: #e5e7eb
+}
+
+.container {
+    margin: 0 auto;
+    
+}
+
