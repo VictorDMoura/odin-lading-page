@@ -86,3 +86,14 @@ ul {
     font-weight: bold;
     border-radius: 5px;
 }
+
+.boxes {
+    height: 400px;
+    background-color: #fff;
+}
+
+.boxes h1 {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: bolder;
+}
