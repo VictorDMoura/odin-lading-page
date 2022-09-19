@@ -97,3 +97,8 @@ ul {
     font-size: 36px;
     font-weight: bolder;
 }
+
+.boxes .container {
+    display: flex;
+    justify-content: center;
+}
