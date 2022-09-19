@@ -87,18 +87,41 @@ ul {
     border-radius: 5px;
 }
 
-.boxes {
-    height: 400px;
+.menu {
+    min-height: 300px;
     background-color: #fff;
 }
 
-.boxes h1 {
+.menu h1{
+    /*border: 1px solid red;*/
     color: #1f2937;
     font-size: 36px;
     font-weight: bolder;
+    margin-bottom: 50px;
 }
 
-.boxes .container {
+.menu .container {
+    /*border: 1px solid red;*/
     display: flex;
     justify-content: center;
+}
+
+.boxes .container{
+    /*border: 1px solid red;*/
+    display: flex;
+    /*flex-wrap: wrap;*/
+    justify-content: space-around;
+    color: rgb(116, 112, 112);
+}
+
+.boxes .square {
+    border: 5px solid #3882f6;
+    border-radius: 10px;
+    height: 100px;
+    width: 100px;
+}
+
+.boxes .box {
+    text-align: center;
+    width: 100px;
 }
