@@ -28,3 +28,7 @@ a {
   font-weight: bolder;
   color: #f9faf8;
 }
+
+img {
+  max-height: 200px;
+}
