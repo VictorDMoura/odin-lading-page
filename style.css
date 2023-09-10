@@ -2,6 +2,7 @@
   background-color: #1f2937;
   color: #e5e7eb;
   font-size: 18px;
+  padding: 20px 100px;
 }
 .header-top {
   display: flex;
@@ -15,6 +16,7 @@
 
 ul {
   display: flex;
+  gap: 20px;
 }
 
 a {
@@ -29,6 +31,22 @@ a {
   color: #f9faf8;
 }
 
+.left {
+  max-width: 444px; /* limitar tamanho */
+}
+
+.header-body {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 img {
-  max-height: 200px;
+  max-height: 250px;
+}
+
+button {
+  background-color: #3882f6;
+  color: white;
 }
