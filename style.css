@@ -148,3 +148,10 @@ button {
   font-size: 18px;
   font-weight: bold;
 }
+
+footer {
+  background-color: #1f2937;
+  color: #e5e7eb;
+  text-align: center;
+  padding: 30px;
+}
