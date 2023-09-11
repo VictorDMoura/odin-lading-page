@@ -57,3 +57,35 @@ button {
   color: white;
   max-width: 150px;
 }
+
+.section-2 {
+  padding: 50px 0;
+}
+
+.title-section-2 {
+  font-size: 36px;
+  text-align: center;
+  font-weight: bolder;
+  color: #1f2937;
+  margin-bottom: 50px;
+}
+
+.boxes {
+  color: #1f2937;
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.box {
+  max-width: 135px;
+  text-align: center;
+}
+
+.square {
+  width: 135px;
+  height: 135px;
+  border: solid #3882f6;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
