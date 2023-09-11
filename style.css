@@ -1,3 +1,7 @@
+* {
+  font-family: sans-serif;
+}
+
 .header {
   background-color: #1f2937;
   color: #e5e7eb;
@@ -105,4 +109,10 @@ button {
   font-size: 36px;
   font-style: italic;
   font-weight: lighter;
+}
+
+.author {
+  text-align: right;
+  font-size: 24px;
+  font-weight: bold;
 }
