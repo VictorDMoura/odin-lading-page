@@ -89,3 +89,20 @@ button {
   border-radius: 10px;
   margin-bottom: 10px;
 }
+
+.section-3 {
+  padding: 150px;
+  background: #e5e7eb;
+  color: #1f2937;
+}
+
+.section-3-text {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.quote {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: lighter;
+}
